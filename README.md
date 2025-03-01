@@ -1,1 +1,1 @@
-My new proj 3
+My new proj
